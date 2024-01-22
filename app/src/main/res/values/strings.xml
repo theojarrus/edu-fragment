@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="show_toast">Show toast</string>
+</resources>
